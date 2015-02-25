@@ -1,5 +1,7 @@
 Readme
 
-Maintainers:
+Demo for intermediate class.
+
+## Maintainers:
 
 Me
